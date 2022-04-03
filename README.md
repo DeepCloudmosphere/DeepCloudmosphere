@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak </h1>
 <h3 align="center">- 🌱 I’m currently learning DevOps tools</h3>
 
-- 📫 How to reach me **deepakv243601@gmail.com**
+- 📫 How to reach me **deepak.cloud243601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
