@@ -46,16 +46,17 @@ I'm passionate about driving efficiency and scalability in software development 
 <div>
   <img src="https://www.notion.so/image/https%3A%2F%2Fwww.webopedia.com%2Fwp-content%2Fuploads%2F2021%2F06%2Fvmware-workstation-logo.jpeg?table=block&id=12a9c654-f23e-42e4-a40a-a78ec7330805&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" title="Virtualization" alt="Virtualization" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/537/436/png-transparent-linux-distribution-operating-system-linux-kernel-linux-logo-computer-wallpaper-bird-linux.png" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://artifacthub.io/image/ffdbdf41-e82c-450c-9628-9e092921d95e@3x"  alt="Helm" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png"  alt="k8s" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62a73662223343fbc2207cee.png?table=block&id=23ddab1b-ada1-4e98-bed4-890e0a9cf37f&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2"  alt="Jenkins " width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png"  alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fi.pinimg.com%2F736x%2Fc7%2Fad%2F46%2Fc7ad4682fa6042d1c13f8703ec727ccc.jpg?table=block&id=c1f90c58-7950-4bde-9685-c606cfdf1ad9&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FPrometheus_software_logo.svg%2F2066px-Prometheus_software_logo.svg.png?table=block&id=3efd15b0-8e98-4575-bee5-456fdeb9ae6d&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe412ce36-bcf7-421f-8ba2-861563ceceb1%2Fgrafana.png?table=block&id=d8844dc0-74e6-4c21-9ac4-820d70ef9eca&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fraw.githubusercontent.com%2Fblacktop%2Fdocker-elastic-stack%2Fmaster%2Fdocs%2Fimg%2Fel_stack_logo.png?table=block&id=c93fd5be-ecee-44b5-813a-4d9f45d478d2&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="ELK" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1f%2FPython_logo_01.svg%2F800px-Python_logo_01.svg.png?table=block&id=3c9f7d73-85dc-47ab-9e75-39572757d8d5&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://bashlogo.com/img/symbol/png/monochrome_dark.png" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" **alt="C" width="40" height="40"/>
 </div>
