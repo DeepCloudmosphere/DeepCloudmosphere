@@ -9,10 +9,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/its-deepak-verma">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@tech_18484/simplifying-kubernetes-logging-with-efk-stack-158da47ce982">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
@@ -21,6 +21,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
+  📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
 </div>
 
 
@@ -37,7 +38,6 @@ I'm passionate about driving efficiency and scalability in software development 
 
 -   ✔: In my free time, read Books and tech articles.
   
-📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
   ---
 
 
