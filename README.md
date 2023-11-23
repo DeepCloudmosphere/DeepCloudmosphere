@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> : <h4><a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com </a></h4>
+     <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="40"/> <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com </a></h4>
 </div>
 
 
@@ -60,4 +60,5 @@ I'm passionate about driving efficiency and scalability in software development 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" **alt="C" width="40" height="40"/>
+  
 </div>
