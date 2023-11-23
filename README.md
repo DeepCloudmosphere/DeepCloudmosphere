@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3>- 📫 How to reach me *deepcloud.28@gmail.com*</h3>
+  <h3>- 📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a></h3>
 </div>
 
 <div id="badges" align="center">
