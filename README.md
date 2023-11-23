@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-  hey there, I'm Deepak
+  Hey there, I'm Deepak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h3 align="center">- ☁️ Cloud Enthusiast | Tech Explorer </h3>
@@ -19,14 +19,13 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
-  
 </div>
 
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### 👨🏻‍💻 About Me :
+I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices. <img src="https://banner2.cleanpng.com/20180927/iyp/kisspng-devops-systems-development-life-cycle-clearvision-clearvision-cm-devops-tools-sdlc-solutions-d-5bad6947a9fef7.1465860715380913356963.jpg" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
