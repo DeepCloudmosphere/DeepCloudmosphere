@@ -3,7 +3,7 @@
   Hey there, I'm Deepak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h3 align="center">- ☁️ Cloud Enthusiast | Tech Explorer </h3>
+  <h3 align="center"> ☁️ Cloud Enthusiast | Tech Explorer </h3>
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
   
 </div>
@@ -32,20 +32,19 @@ I'm passionate about driving efficiency and scalability in software development 
 -   ✔: Leveraging DevOps Experience, skilled in Docker, Kubernetes, Ansible, Terraform, Helm, Jenkins and other DevOps tools.
 
 -   ✔: Published tech articles and POCs on Medium.
--   
+   
 -   ✔: Eager to contribute to an innovative environment
 
 -   ✔: In my free time, read Books and tech articles.
--   
+  
 📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
   ---
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and DevOps Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.flaticon.com/free-icon/devops_5266541?term=devops&related_id=5266541" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
