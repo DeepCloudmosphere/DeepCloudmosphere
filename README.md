@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/its-deepak-verma">
+  <a href="https://www.linkedin.com/in/its-deepak-verma">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@tech_18484/simplifying-kubernetes-logging-with-efk-stack-158da47ce982">
