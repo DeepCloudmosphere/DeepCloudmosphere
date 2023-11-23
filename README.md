@@ -3,7 +3,7 @@
   hey there, I'm Deepak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h3 align="center">- 🌱 Cloud Enthusiast | Tech Explorer </h3>
+  <h3 align="center">- ☁️ Cloud Enthusiast | Tech Explorer </h3>
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
   
 </div>
@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-- <h4>- 📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a></h4>
+-  📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
 
   ---
 
