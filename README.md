@@ -22,8 +22,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> : deepak.verma2436@gmail.com
-
+  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> : <h4><a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com </a></h4>
 </div>
 
 
