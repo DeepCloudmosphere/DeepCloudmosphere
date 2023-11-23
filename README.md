@@ -25,7 +25,8 @@
 ---
 
 ### 👨🏻‍💻 About Me :
-I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices. <img src="https://banner2.cleanpng.com/20180927/iyp/kisspng-devops-systems-development-life-cycle-clearvision-clearvision-cm-devops-tools-sdlc-solutions-d-5bad6947a9fef7.1465860715380913356963.jpg" width="30"> from India.
+I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices. <img src="https://github.com/DeepCloudmosphere/DeepCloudmosphere/assets/98619865/54ceec3a-3c3d-405e-a012-e7bc5def2667
+" width="30"> from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
