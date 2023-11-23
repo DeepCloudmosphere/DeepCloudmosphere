@@ -21,8 +21,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
-<div align="center">
-     <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="40"/> <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com </a></h4>
+<div align="bottom">
+     <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="30"/> <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com </a></h4>
 </div>
 
 
