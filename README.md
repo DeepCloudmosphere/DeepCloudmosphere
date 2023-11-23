@@ -17,6 +17,8 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
@@ -25,18 +27,19 @@
 ---
 
 ### 👨🏻‍💻 About Me :
-I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices. <img src="https://github.com/DeepCloudmosphere/DeepCloudmosphere/assets/98619865/54ceec3a-3c3d-405e-a012-e7bc5def2667
-" width="30"> from India.
+I'm passionate about driving efficiency and scalability in software development through innovative DevOps practices ♾️
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-   ✔: Leveraging DevOps Experience, skilled in Docker, Kubernetes, Ansible, Terraform, Helm, Jenkins and other DevOps tools.
 
-- :seedling: Exploring Technical Content Writing.
+-   ✔: Published tech articles and POCs on Medium.
+-   
+-   ✔: Eager to contribute to an innovative environment
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  
--  📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
-
+-   ✔: In my free time, read Books and tech articles.
+-   
+📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
   ---
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
