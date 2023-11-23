@@ -22,7 +22,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
 <div align="center">
-  📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a>
+  📫 How to reach me   <a href="deepak.verma2436@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
