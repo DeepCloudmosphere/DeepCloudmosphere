@@ -44,7 +44,7 @@ I'm passionate about driving efficiency and scalability in software development 
 ### :hammer_and_wrench: Languages and DevOps Tools :
 
 <div>
-  <img src="https://www.flaticon.com/free-icon/devops_5266541?term=devops&related_id=5266541" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.notion.so/image/https%3A%2F%2Fwww.webopedia.com%2Fwp-content%2Fuploads%2F2021%2F06%2Fvmware-workstation-logo.jpeg?table=block&id=12a9c654-f23e-42e4-a40a-a78ec7330805&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&width=250&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
