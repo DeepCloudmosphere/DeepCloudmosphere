@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  <h1 align="center">Hi 👋, I'm Deepak </h1>
+  <h3 align="center">- 🌱 Cloud Enthusiast | Tech Explorer </h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>- 📫 How to reach me <a href="deepak.verma2436@gmail.com">deepak.verma2436@gmail.com</a></h3>
 </div>
