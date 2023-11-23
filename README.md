@@ -22,10 +22,8 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="500"/>
 </div>
 <div align="center">
-  📫 How to reach me:
- <a href="https://deepak.verma2436@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> : deepak.verma2436@gmail.com
+
 </div>
 
 
