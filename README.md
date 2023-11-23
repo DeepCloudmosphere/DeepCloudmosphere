@@ -23,8 +23,8 @@
 </div>
 <div align="center">
   📫 How to reach me:
- <a href="deepak.verma2436@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://deepak.verma2436@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
