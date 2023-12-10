@@ -58,7 +58,7 @@ I'm passionate about driving efficiency and scalability in software development 
   <img src="https://www.notion.so/image/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F1f%2FPython_logo_01.svg%2F800px-Python_logo_01.svg.png?table=block&id=3c9f7d73-85dc-47ab-9e75-39572757d8d5&spaceId=ab4dfb26-4e9d-4732-b103-30a44315092a&userId=04e51288-f586-4640-a1d7-9cbba20376f2&cache=v2" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://bashlogo.com/img/symbol/png/monochrome_dark.png" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" **alt="C" width="40" height="40"/>
   
 </div>
