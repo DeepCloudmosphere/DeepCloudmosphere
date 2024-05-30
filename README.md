@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  ### Hi there 
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
+</div>
 
 ```typescript
 const user: GithubUser {
@@ -13,9 +17,7 @@ const user: GithubUser {
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/its-deepak-verma">
