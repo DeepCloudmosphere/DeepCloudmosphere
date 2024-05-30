@@ -1,8 +1,8 @@
 
   ### Hi there 
-  <div id="badges" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
-  </div>
+  <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ```typescript
 const user: GithubUser {
@@ -14,10 +14,9 @@ const user: GithubUser {
   contact: 'deepak.verma2436[at]gmail.com'
 }
 ```
-
-
-
-
+  <div id="badges" align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
+  </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/its-deepak-verma">
@@ -27,9 +26,7 @@ const user: GithubUser {
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 
-  <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
   <h3 align="center"> 🧑🏻‍💻 Cloud & DevOps Engineer | Tech Innovator 🧑🏻‍💻 </h3>
 </div>
 
