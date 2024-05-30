@@ -1,3 +1,18 @@
+### Hi there 👋
+
+```typescript
+const user: GithubUser {
+  name: 'Deepak Verma',
+  location: 'Dehradun(India)',
+  role: 'Devops Engineer',
+  stack: ['Git','Linux','Docker','kubernetes','Jenkins','Ansible','Terraform','Prometheus','Grafana'.'Loki-promtail','ELK','AWS'],
+  additionalStack: ['Python', 'C', 'MERN Stack','Redis','Mysql','Tailwind CSS'],
+  contact: 'deepak.verma2436[at]gmail.com'
+}
+```
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
 </div>
@@ -11,7 +26,6 @@
   </a>
 
   <h1>
-     Hey there, I'm Deepak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h3 align="center"> 🧑🏻‍💻 Cloud & DevOps Engineer | Tech Innovator 🧑🏻‍💻 </h3>
