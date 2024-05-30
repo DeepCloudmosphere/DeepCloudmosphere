@@ -14,7 +14,7 @@
      Hey there, I'm Deepak
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h3 align="center"> ☁️ Cloud Enthusiast | Tech Explorer </h3>
+  <h3 align="center"> ∞ DevOps Engineer  </h3>
 </div>
 
 
