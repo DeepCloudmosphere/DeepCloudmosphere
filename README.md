@@ -60,30 +60,17 @@ I'm passionate about driving efficiency and scalability in software development 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" **alt="C" width="40" height="40"/>
-
-
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb1eq8Zy2i7JrVgID_DJF8tH9bOD_vPgcr7g&s" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" title="loki-promtail" **alt="loki" width="40" height="40"/>
-
-
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" title="mysql" **alt="mysql" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" title="mongoDB" **alt="mongoDB" width="40" height="40"/>
-
   <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" title="REACT" **alt="REACT" width="40" height="40"/>
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NODEJS" **alt="NODEJS" width="40" height="40"/>
-
   <img src="  https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" title="express" **alt="express" width="40" height="40"/>
-
-
   <img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png" title="js" **alt="js" width="40" height="40"/>
-  
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" title="html" **alt="html" width="40" height="40"/>
-  
   <img src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text.png" title="css" **alt="css" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" title="tailwind" **alt="tailwind" width="40" height="40"/>
-
-  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Jxyptf2jPCbEozdlBsQhJBzws8ek2CoeZg&s" title="redis" **alt="redis" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdE5U9ZRW_2RVCCK5ifIHULPvR6Z48FQWYg&s" title="pi" **alt="pi" width="40" height="40"/>
 </div>
