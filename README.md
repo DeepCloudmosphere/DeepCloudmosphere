@@ -1,8 +1,7 @@
 
-  ### Hi there 
-  <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  ### Hi there
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 
 ```typescript
 const user: GithubUser {
@@ -25,7 +24,9 @@ const user: GithubUser {
   <a href="https://medium.com/@tech_18484/simplifying-kubernetes-logging-with-efk-stack-158da47ce982">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <h1>
 
+</h1>
 
   <h3 align="center"> 🧑🏻‍💻 Cloud & DevOps Engineer | Tech Innovator 🧑🏻‍💻 </h3>
 </div>
