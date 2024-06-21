@@ -14,7 +14,7 @@ const user: GithubUser {
 }
 ```
   <div id="badges" align="center">
-  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" width="300" height="250"/>
+  <img src="https://dhboss.com/images/95116-coder.gif" width="300" height="250"/>
   </div>
 
 <div id="badges" align="center">
@@ -33,7 +33,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" width="600" height="500"/>
+  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" width="900" height="600"/>
 </div>
 <!-- <div align="bottom">
      <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="30"/> deepak.verma2436@gmail.com </h4>
